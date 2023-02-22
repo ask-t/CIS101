@@ -1,0 +1,6 @@
+1. This is a simple text file
+with very few lines in it.
+
+2. It contains mostly lowercase
+letters, and a few UPPERCASE
+letters also a couple of numbers.

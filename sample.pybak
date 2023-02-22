@@ -1,0 +1,4 @@
+print('hello')
+
+text='hello world'
+print(text)
